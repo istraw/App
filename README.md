@@ -4,10 +4,10 @@
 
 | 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
-| Qspace  | 专为 macOS 系统设计的多窗格文件管理效率工具。购买 QSpace Pro 使用邀请码SA4BHH 可优惠 10 元。 | 买断 | [qspace.awehunt.com](https://qspace.awehunt.com) | ⭐️⭐️⭐️⭐️ |
-| Bob  | 翻译 & OCR 软件 | 买断 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |
+| Qspace  | 专为 macOS 系统设计的多窗格文件管理效率工具。购买 QSpace Pro 使用邀请码SA4BHH 可优惠 10 元。 | 买断制 | [qspace.awehunt.com](https://qspace.awehunt.com) | ⭐️⭐️⭐️⭐️ |
+| Bob  | 翻译 & OCR 软件 | 买断制 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |
 | Bitwarden  | 广受欢迎的开源密码管理器，支持多平台  | 免费 | [bitwarden.com](https://bitwarden.com/) | ⭐️⭐️⭐️⭐️ |
-| 1password  | 和Bitwarden一样是款广受欢迎的密码管理器，支持多平台，功能更丰富，界面更美观 | 订阅 | [1password](https://1password.com) | ⭐️⭐️⭐️⭐️⭐️ |
+| 1password  | 和Bitwarden一样是款广受欢迎的密码管理器，支持多平台，功能更丰富，界面更美观 | 订阅制 | [1password](https://1password.com) | ⭐️⭐️⭐️⭐️⭐️ |
 
 ## 系统
 
@@ -25,4 +25,10 @@
 
 | 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  |
 |  :----  |  :----  |  :----  |  :----  |  :----  |
-| Blender  | Blender是一款开源的3D创作软件，支持建模、动画、渲染、视频编辑等功能，适用于专业和业余用户。 | 免费| [www.blender.org](https://www.blender.org) | ⭐️⭐️⭐️⭐️⭐️ |
+| Blender  | 开源的3D创作软件，支持建模、动画、渲染、视频编辑等功能，适用于专业和业余用户 | 免费| [www.blender.org](https://www.blender.org) | ⭐️⭐️⭐️⭐️⭐️ |
+
+## 影音
+
+| 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  |
+|  :----  |  :----  |  :----  |  :----  |  :----  |
+| IINA  | 开源播放器，界面美观，基于强大的开源播放内核mpv | 免费| [iina.io](https://iina.io/) | ⭐️⭐️⭐️⭐️⭐️ |
