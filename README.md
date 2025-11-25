@@ -3,6 +3,8 @@
 | 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  | 备注  | 
 |  :----  |  :----  |  :----  |  :----  |  :----  |  :----  |
 | Qspace  | QSpace 是一款专为 macOS 系统设计的多窗格文件管理效率工具。它的核心目标是解决苹果电脑自带文件管理器“访达”在多任务、多位置文件操作时效率不足的痛点。 | 买断 | [qspace.awehunt.com](https://qspace.awehunt.com) | ⭐️⭐️⭐️⭐️ | 购买 QSpace Pro 使用邀请码SA4BHH 可优惠 10 元 |
+| Bob  | Bob是一款翻译 & OCR 软件 | 买断 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |  |
+
 
 # 系统
 
