@@ -4,8 +4,9 @@
 
 | 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  | 备注  | 
 |  :----  |  :----  |  :----  |  :----  |  :----  |  :----  |
-| Qspace  | QSpace 是一款专为 macOS 系统设计的多窗格文件管理效率工具。它的核心目标是解决苹果电脑自带文件管理器“访达”在多任务、多位置文件操作时效率不足的痛点。 | 买断 | [qspace.awehunt.com](https://qspace.awehunt.com) | ⭐️⭐️⭐️⭐️ | 购买 QSpace Pro 使用邀请码SA4BHH 可优惠 10 元 |
-| Bob  | Bob是一款翻译 & OCR 软件 | 买断 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |  |
+| Qspace  | 专为 macOS 系统设计的多窗格文件管理效率工具。它的核心目标是解决苹果电脑自带文件管理器“访达”在多任务、多位置文件操作时效率不足的痛点 | 买断 | [qspace.awehunt.com](https://qspace.awehunt.com) | ⭐️⭐️⭐️⭐️ | 购买 QSpace Pro 使用邀请码SA4BHH 可优惠 10 元 |
+| Bob  | 翻译 & OCR 软件 | 买断 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |  |
+| Bitwarden  | 广受欢迎的开源密码管理器，它能像一个专属的数字保险柜一样，帮助您安全地存储和管理所有的密码及敏感信息  | 免费 | [bitwarden.com/](https://bitwarden.com/) | ⭐️⭐️⭐️⭐️ |  |
 
 ## 系统
 
@@ -23,4 +24,4 @@
 
 | 名称  | 描述  | 收费模式  | 下载地址  | 推荐等级  | 备注  | 
 |  :----  |  :----  |  :----  |  :----  |  :----  |  :----  |
-| Blender  | Blender是一款开源的3D创作软件，支持建模、动画、渲染、视频编辑等功能，适用于专业和业余用户。 | 免费| [www.blender.org](https://www.blender.org) | ⭐️⭐️⭐️⭐️⭐️ | |
+| Blender  | 开源的3D创作软件，支持建模、动画、渲染、视频编辑等功能，适用于专业和业余用户 | 免费| [www.blender.org](https://www.blender.org) | ⭐️⭐️⭐️⭐️⭐️ | |
