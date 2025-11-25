@@ -10,7 +10,7 @@
 | Bob  | 翻译 & OCR 软件 | 买断 | [bobtranslate.com](https://bobtranslate.com/)| ⭐️⭐️⭐️⭐️ |
 | Bitwarden  | 广受欢迎的开源密码管理器，支持多平台  | 免费 | [bitwarden.com](https://bitwarden.com/) | ⭐️⭐️⭐️⭐️ |
 | 1password  | 和Bitwarden一样是款广受欢迎的密码管理器，支持多平台，功能更丰富，界面更美观 | 订阅 | [1password.com](https://1password.com) | ⭐️⭐️⭐️⭐️⭐️ |
-| snipaste  | 基础功能免费的截图软件，专业版需付费 | 部分免费| [https://snipaste.com](https://zh.snipaste.com)| ⭐️⭐️⭐️ |
+| snipaste  | 基础功能免费的截图软件，专业版需付费 | 部分免费| [snipaste.com](https://zh.snipaste.com)| ⭐️⭐️⭐️ |
 
 ## 系统
 
