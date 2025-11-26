@@ -30,7 +30,7 @@
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | Blender  | 开源的3D创作软件，支持建模、动画、渲染、视频编辑等功能，适用于专业和业余用户 | 免费| [www.blender.org](https://www.blender.org) | ⭐️⭐️⭐️⭐️ |
 | Eagle  | 专为设计师、创意工作者及需要高效管理多媒体素材的用户打造的专业素材管理工具 | 买断| [eagle.cool](https://eagle.cool)| ⭐️⭐️⭐️⭐️ |
-| Sketch | UI/UX领域的本地化专业矢量图形设计软件 | 订阅| [www.sketch.com](https://www.sketch.com)| ⭐️⭐️⭐️⭐️ |
+| Sketch | UI/UX领域的本地化专业设计软件 | 订阅| [www.sketch.com](https://www.sketch.com)| ⭐️⭐️⭐️⭐️ |
 | Figma | UI/UX领域的云端协作专业设计软件 | 订阅 | [www.figma.com](https://www.figma.com)| ⭐️⭐️⭐️⭐️ |
 
 ## 影音
