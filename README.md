@@ -1,6 +1,6 @@
 # Mac软件推荐
 
-更新时间2026-1-5，评分仅供参考。
+更新时间2026-1-6，评分仅供参考。
 
 ## 效率
 
@@ -32,6 +32,7 @@
 | Eagle  | 专为设计师、创意工作者及需要高效管理多媒体素材的用户打造的专业素材管理工具 | 买断| [eagle.cool](https://eagle.cool)| ⭐️⭐️⭐️⭐️ |
 | Sketch | UI/UX领域的本地化专业矢量图形设计软件 | 订阅| [www.sketch.com](https://www.sketch.com)| ⭐️⭐️⭐️⭐️ |
 | Figma | UI/UX领域的云端协作专业设计软件 | 订阅 | [www.figma.com](https://www.figma.com)| ⭐️⭐️⭐️⭐️ |
+| PureRef | 专为创意工作者设计的轻量级参考图像管理工具 | 免费 | [www.pureref.com](https://www.pureref.com)| ⭐️⭐️⭐️ |
 
 ## 影音
 
