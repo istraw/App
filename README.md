@@ -40,3 +40,10 @@
 |  :----  |  :----  |  :----  |  :----  |  :----  |
 | IINA  | 开源播放器，界面美观，基于强大的开源播放内核mpv | 免费| [iina.io](https://iina.io/) | ⭐️⭐️⭐️⭐️⭐️ |
 | QuickRecorder  | 免费、开源的屏幕录制工具，以其轻量化和高性能受到好评 | 免费| [QuickRecorder](https://lihaoyun6.github.io/quickrecorder/) | ⭐️⭐️⭐️⭐️⭐️ |
+
+## 解压
+
+| 名称  | 描述  | 收费模式  | 官网  |  推荐度  |
+|  :----  |  :----  |  :----  |  :----  |  :----  |
+| Keka  | 知名解压软件 | 免费| [keka.io](https://www.keka.io/en/) | ⭐️⭐️⭐️⭐️ |
+| Bandizip  | 知名解压软件 | 收费| [Bandizip](https://www.bandisoft.com/bandizip.mac/) | ⭐️⭐️⭐️⭐️ |
